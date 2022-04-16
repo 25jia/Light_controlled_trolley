@@ -6,4 +6,5 @@
 # car detect
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/76482356/163682599-f2d766f2-584f-4c26-9b2f-6d54ad774746.png">
 
-
+# result show
+https://www.bilibili.com/video/BV1p3411e72U?spm_id_from=333.999.0.0
